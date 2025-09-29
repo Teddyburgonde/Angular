@@ -7,6 +7,7 @@
 <img width="467" height="312" alt="Capture d’écran 2025-09-29 à 22 45 31" src="https://github.com/user-attachments/assets/cc96f02d-b567-43ec-b601-4b53666d076e" />
 </p>
 
+<br>
 Un formulaire est toujours composé de deux éléments principaux :  
 
 - **Un `<form>`** → c’est la partie visible à l’écran (les champs, les boutons).  
