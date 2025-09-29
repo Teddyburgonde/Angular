@@ -2,9 +2,7 @@
 
 ### Exemple visuel d'un formulaire 
 
-
-![formulaire](https://github.com/user-attachments/assets/3bd0d080-3be3-4ff6-97c9-0cc62835b962)
-
+<img width="467" height="312" alt="Capture d’écran 2025-09-29 à 22 45 31" src="https://github.com/user-attachments/assets/cc96f02d-b567-43ec-b601-4b53666d076e" />
 
 
 Un formulaire est toujours composé de deux éléments principaux :  
