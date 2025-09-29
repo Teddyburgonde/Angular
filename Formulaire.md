@@ -1,9 +1,10 @@
 ## Comprendre un formulaire en Angular
 
-### Exemple visuel d'un formulaire 
+### Exemple visuel d'un formulaire:
 
+<p align="center">
 <img width="467" height="312" alt="Capture d’écran 2025-09-29 à 22 45 31" src="https://github.com/user-attachments/assets/cc96f02d-b567-43ec-b601-4b53666d076e" />
-
+</p>
 
 Un formulaire est toujours composé de deux éléments principaux :  
 
