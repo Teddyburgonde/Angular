@@ -1,4 +1,5 @@
 ## Comprendre un formulaire en Angular
+<br>
 
 ### Exemple visuel d'un formulaire:
 
