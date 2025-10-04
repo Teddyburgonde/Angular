@@ -10,14 +10,14 @@ nvm install 22
 npm install -g @angular/cli
 ```
 
-## Installer angular material
-
-```bash
-ng add @angular/material
-```
-
 ## Crer un projet angular
 
 ```bash
 ng new nomduprojet
+```
+
+## Installer angular material
+
+```bash
+ng add @angular/material
 ```
