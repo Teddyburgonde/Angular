@@ -32,6 +32,5 @@ ng serve
 
 ## Doc officiel
 
-```bash
+
 https://angular.dev/installation
-```
