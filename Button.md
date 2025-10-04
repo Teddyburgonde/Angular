@@ -62,7 +62,6 @@ imports: [NomdelaClass],
 
 ## Doc officiel
 
-```bash
 https://material.angular.dev/components/button/overview
-```
+
 
