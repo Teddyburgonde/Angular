@@ -1,6 +1,7 @@
 Exemple visuel 
 
-<img width="396" height="156" alt="example_card" src="https://github.com/user-attachments/assets/1280e194-f2d2-4c5f-98e1-18bcb7c66c9a" />
+<img width="453" height="204" alt="example_card" src="https://github.com/user-attachments/assets/06f03878-c26f-4aa9-9fab-a1d09fb0e660" />
+
 
 
 ## Placer vous dans components
