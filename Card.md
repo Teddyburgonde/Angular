@@ -8,7 +8,7 @@ ng generate component card
 
 ## html
 
-```bash
+```html
 <mat-card class="example-card" appearance="outlined">
   <mat-card-header>
     <div mat-card-avatar class="example-header-image"></div>
@@ -26,4 +26,43 @@ ng generate component card
     <button matButton>Je suis un bouton</button>
   </mat-card-actions>
 </mat-card>
+```
+
+<br>
+
+## css
+
+
+```css
+.example-card {
+  max-width: 400px;
+}
+```
+
+<br>
+
+## ts
+
+```ts
+import {MatCardModule} from '@angular/material/card';
+
+imports: [MatCardModule],
+
+```
+
+## app.html
+
+```html
+<app-nomdelaClass></app-nomdelaClass>
+```
+
+<br>
+
+## app.ts
+
+```ts
+
+import { nomdelaClasse } from 'Le chemin';
+imports: [Card],
+
 ```
