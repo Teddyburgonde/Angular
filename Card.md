@@ -71,3 +71,7 @@ import { nomdelaClasse } from 'Le chemin';
 imports: [Card],
 
 ```
+
+## Doc officiel 
+
+https://material.angular.dev/components/card/overview
