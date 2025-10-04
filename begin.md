@@ -15,9 +15,3 @@ npm install -g @angular/cli
 ```bash
 ng new nomduprojet
 ```
-
-## Installer angular material
-
-```bash
-ng add @angular/material
-```
