@@ -2,5 +2,5 @@
 <br>
 Ce guide s’appuie uniquement sur la documentation officielle, à jour avec la dernière version.
 
-## - Begin ✅
-## - Button ✅
+- Begin ✅
+- Button ✅
