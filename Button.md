@@ -30,7 +30,9 @@ ng generate component nomducomposant
 	montextesurlebouton
 </button>
 ```
+
 <br>
+
 ## ts 
 
 ```bash
