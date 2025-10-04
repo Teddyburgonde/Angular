@@ -15,7 +15,7 @@ src/
 ```
 <br>
 
-## Creer un button
+## Créer un button
 
 ```bash
 ng generate component nomducomposant
