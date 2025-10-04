@@ -45,7 +45,7 @@ imports: [MatButtonModule],
 ## Dans app.html 
 
 ```bash
-<nomdu-selector>></nomdu-selector>
+<nomdu-selector></nomdu-selector>
 ```
 <br>
 
