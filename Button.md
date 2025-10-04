@@ -1,5 +1,6 @@
-## Exemple visuel 
+## Exemple visuel
 
+<img width="89" height="43" alt="example button" src="https://github.com/user-attachments/assets/2d610d3f-e783-4dd7-8f0a-d126739cb02c" />
 
 
 ## Créer un dossier components et placer vous a l'interieur. 
