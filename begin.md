@@ -21,3 +21,9 @@ ng new nomduprojet
 ```bash
 ng add @angular/material
 ```
+
+## Lancer le server
+
+```bash
+ng serve
+```
