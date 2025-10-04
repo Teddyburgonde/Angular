@@ -1,3 +1,8 @@
+Exemple visuel 
+
+<img width="396" height="156" alt="example_card" src="https://github.com/user-attachments/assets/1280e194-f2d2-4c5f-98e1-18bcb7c66c9a" />
+
+
 ## Placer vous dans components
 
 ```bash
