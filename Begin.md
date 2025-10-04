@@ -27,3 +27,11 @@ ng add @angular/material
 ```bash
 ng serve
 ```
+
+<br>
+
+## Doc officiel
+
+```bash
+https://angular.dev/installation
+```
