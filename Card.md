@@ -1,0 +1,29 @@
+## Placer vous dans components
+
+```bash
+ng generate component card
+```
+
+<br>
+
+## html
+
+```bash
+<mat-card class="example-card" appearance="outlined">
+  <mat-card-header>
+    <div mat-card-avatar class="example-header-image"></div>
+    <mat-card-title>Titre</mat-card-title>
+  </mat-card-header>
+  <mat-card-content>
+      <!-- Ici on place le contenu qui 
+       s'aggrandira automatiquement en fonction de la taille du contenu -->
+    <p>
+     Je suis un contenu
+    </p>
+  </mat-card-content>
+  <mat-card-actions>
+    <!-- Ici on place les boutons -->
+    <button matButton>Je suis un bouton</button>
+  </mat-card-actions>
+</mat-card>
+```
