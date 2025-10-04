@@ -14,6 +14,7 @@ src/
 │   ├── components/
 ```
 <br>
+
 ## Creer un button
 
 ```bash
@@ -21,6 +22,7 @@ ng generate component nomducomposant
 ```
 
 <br>
+
 ## html
 
 ```bash
@@ -37,12 +39,14 @@ import { MatButtonModule } from '@angular/material/button';
 imports: [MatButtonModule],
 ```
 <br>
+
 ## Dans app.html 
 
 ```bash
 <nomdu-selector>></nomdu-selector>
 ```
 <br>
+
 ## Dans app.ts
 
 ```bash
@@ -51,7 +55,9 @@ import {NomdelaClass} from 'lechemin';
 imports: [NomdelaClass],
 
 ```
+
 <br>
+
 ## Doc officiel
 
 ```bash
