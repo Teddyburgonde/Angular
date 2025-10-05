@@ -1,4 +1,4 @@
-## Example visuel 
+## Exemple visuel 
 
 <img width="152" height="45" alt="Capture d’écran 2025-10-05 à 21 40 37" src="https://github.com/user-attachments/assets/3208af46-4d15-46ef-a128-d2a1bb897a13" />
 
