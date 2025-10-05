@@ -14,13 +14,13 @@ L’interpolation en Angular, c’est quand tu affiches la valeur d'une variable
 
 ## Exercice: 
 
-- Crée une string en ts dans le fichier app.ts.
-Donne a cette string la valeur de ton prénom.
+- Crée une string en ts dans le fichier app.ts. <br>
+Donne a cette string la valeur de ton prénom. <br>
 
 - Va dans app.html
-et rajoute la valeur de ta variable déclaration dans le app.ts 
-dans le p Hello
-Bien sur tu dois utiliser l'interpolation. 
+et rajoute la valeur de ta variable déclaration dans le app.ts  <br>
+dans le p Hello. <br>
+Bien sur tu dois utiliser l'interpolation.  <br>
 
 
 
