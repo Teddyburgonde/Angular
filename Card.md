@@ -59,7 +59,7 @@ imports: [MatCardModule],
 ## app.html
 
 ```html
-<app-nomdelaClass></app-nomdelaClass>
+<app-nomduSelector></app-nomduSelector>
 ```
 
 <br>
