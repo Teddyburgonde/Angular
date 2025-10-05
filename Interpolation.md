@@ -14,7 +14,7 @@ L’interpolation en Angular, c’est quand tu affiches la valeur d'une variable
 
 ## Exercice: 
 
-- Crée une string en ts dans le fichier app.ts. <br>
+- Crée une string en ts dabs la class dans le fichier app.ts. <br>
 Donne a cette string la valeur de ton prénom. <br>
 
 - Va dans app.html
