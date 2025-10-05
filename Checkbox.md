@@ -43,3 +43,7 @@ html
 </form>
 
 ```
+
+## Doc officiel 
+
+https://material.angular.dev/components/checkbox/overview
