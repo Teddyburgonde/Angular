@@ -5,3 +5,4 @@ Ce guide s’appuie uniquement sur la documentation officielle, à jour avec la 
 - Begin ✅
 - Button ✅
 - Card ✅
+- Checkbox ✅ 
