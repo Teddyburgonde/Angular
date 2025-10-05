@@ -1,5 +1,7 @@
 ## Exemple visuel 
 
+<img width="296" height="84" alt="Capture d’écran 2025-10-05 à 11 15 18" src="https://github.com/user-attachments/assets/c3eb0a86-f7a9-48b8-9e95-7edfbbd29837" />
+
 ## Checkbox simple 
 
 html
