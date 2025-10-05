@@ -19,7 +19,7 @@ Donne a cette string la valeur de ton prénom.
 
 - Va dans app.html
 et rajoute la valeur de ta variable déclaration dans le app.ts 
-dans le '<p>'Hello'</p>'.
+dans le p Hello
 Bien sur tu dois utiliser l'interpolation. 
 
 
