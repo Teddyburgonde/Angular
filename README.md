@@ -8,3 +8,4 @@ Ce guide s’appuie uniquement sur la documentation officielle, à jour avec la 
 - Checkbox ✅
 - Panneau pliable et dépliable ❌
 - Formulaire ❌
+- Barre de recherche ❌
