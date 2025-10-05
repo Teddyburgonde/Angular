@@ -5,7 +5,7 @@
 
 <br>
 
-## Créer un dossier components et placer vous a l'interieur. 
+## Créer un dossier components et placer vous àl'interieur. 
 
 
 
