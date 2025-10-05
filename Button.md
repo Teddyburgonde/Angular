@@ -29,6 +29,11 @@ ng generate component nomducomposant
 <button matButton="filled">
 	montextesurlebouton
 </button>
+
+<button mat-raised-button mat-flat-button type="button" >
+  mon autre bouton
+</button>
+
 ```
 
 <br>
