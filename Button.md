@@ -1,6 +1,7 @@
 ## Exemple visuel
 
-<img width="89" height="43" alt="example button" src="https://github.com/user-attachments/assets/2d610d3f-e783-4dd7-8f0a-d126739cb02c" />
+
+<img width="298" height="52" alt="Capture d’écran 2025-10-05 à 02 31 01" src="https://github.com/user-attachments/assets/f0804786-8403-4187-990e-5e88f2c9860b" />
 
 <br>
 
