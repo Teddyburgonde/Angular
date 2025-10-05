@@ -6,6 +6,7 @@ Ce guide s’appuie uniquement sur la documentation officielle, à jour avec la 
 - Button ✅
 - Card ✅
 - Checkbox ✅
+- Interpolation {{}} ✅
 - Panneau pliable et dépliable ❌
 - Formulaire ❌
 - Barre de recherche ❌
